@@ -1,12 +1,13 @@
 """
-Risk Assessment Report Generator
+Risk Analyzer Assessment Report Generator
 
 Author: Andrew Zeidler
 
 Description:
-This script reads scenario data from a CSV file, calculates a risk score
-for each location, classifies each scenario by risk level, and writes a
-summary report.
+This script analyzes structured scenario data to generate risk assessments
+using rule-based decision logic. It supports both batch analysis from a CSV
+file and interactive user input for individual scenario evaluation, producing
+risk classifications and optional report outputs.
 """
 
 import csv
