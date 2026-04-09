@@ -166,7 +166,7 @@ def assess_single_scenario():
     print("\n--- Individual Scenario Assessment ---")
     print(f"Location: {scenario['location']}")
     print(f"Risk Level: {risk_level}")
-    print(f"Risk Score: {score}")
+    print(f"Risk Score: {score}\n")
 
 
 def main():
