@@ -1,0 +1,11 @@
+location,visibility,terrain_complexity,signal_strength,enemy_presence,accessibility,weather_conditions,time_of_day,civilian_presence
+Zone Alpha,low,high,weak,yes,difficult,storm,night,none
+Zone Bravo,high,low,strong,no,easy,clear,day,full
+Zone Charlie,medium,medium,moderate,yes,moderate,rain,night,limited
+Zone Delta,low,medium,weak,no,difficult,storm,day,limited
+Zone Echo,high,high,strong,yes,moderate,clear,day,full
+Zone Foxtrot,medium,low,moderate,no,easy,clear,day,full
+Zone Golf,low,high,weak,yes,difficult,storm,night,none
+Zone Hotel,high,medium,strong,no,moderate,rain,day,limited
+Zone India,medium,high,weak,yes,difficult,storm,night,limited
+Zone Juliet,high,low,strong,no,easy,clear,day,full
